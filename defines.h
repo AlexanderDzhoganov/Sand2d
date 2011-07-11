@@ -1,0 +1,9 @@
+#ifndef __DEFINES_H
+#define __DEFINES_H
+
+#define GRID_WIDTH SCRWIDTH
+#define GRID_HEIGHT SCRHEIGHT
+
+#define UNCHANGED -314159265
+
+#endif
